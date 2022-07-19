@@ -1,0 +1,4 @@
+1. testy dla case'ów:
+    a) karty rozdane np. 10, 20, 17
+    b) natychmiastowa wygrana - 21
+    c) natychmiastowa przegrana - 21 dealera
